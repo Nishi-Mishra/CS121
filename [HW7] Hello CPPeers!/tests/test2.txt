@@ -1,0 +1,5 @@
+User ajay
+User nishi
+Post 42412212 ajay #When #deallocating #dynamic arrays, use #delete[].
+Post 325 nishi hey 
+Post 32534 nishi #hello
