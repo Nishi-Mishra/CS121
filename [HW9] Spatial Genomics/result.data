@@ -1,0 +1,9 @@
+AVG 217: 594.272
+VAR 217: 121512
+COUNT 217: 13
+OUTLIER 217 2 200: Less than 200 cells in fov 2
+AVG 11: -1
+Error, Invalid input: Va 45
+Error, Invalid input: 45 54
+Error, Invalid input: AVG 217 2
+Error, Invalid input: VAR  30 
